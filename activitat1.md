@@ -21,3 +21,5 @@ Com a encarregat/da del departament d’informàtica de la teva empresa tens la 
 # Perquè penseu que aquesta és una bona solució al nostre problema
 
 Creiem que es una bona solució, perquè així si algun dia perdem els arxius ja sigui per culpa de que se'ns ha trencat el pc o tingui alguna mena de virus i el tinguéssim de restablir no perdem tots els arxius solament caldrà entrar al nostre compte de Drive i podrem restaurar desde la copia de seguretat feta tots els arxius.
+
+![alt text](pensar.png)
