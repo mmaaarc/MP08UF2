@@ -82,3 +82,8 @@ Aquí podem editar els permisos del usuaris compartits en aquest cas està l’a
 
 
 Al drive de l’usuari li sortirà la carpeta compartida sol tindrà que anar a unitats compartides en mi i ja tindrà la carpeta extra.
+
+
+![alt text](compartits.png)
+
+![alt text](arxius.png)
