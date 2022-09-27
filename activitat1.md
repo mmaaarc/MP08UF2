@@ -50,3 +50,7 @@ Com a encarregat/da del departament d’informàtica de la teva empresa tens la 
 En aquesta carpeta guardarem les còpies de seguretat, per lo tant tots els arxius de l’empresa, sol tindrà accés l’administrador
 Primer que res caldrà activar el nostre compte de Drive al Ubuntu 
 Per poder fer això anirem a paràmetres hi ha comptes en línia 
+
+
+
+![alt text](a.png)                                                                ![alt text](Anual.png)
