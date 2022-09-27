@@ -59,3 +59,9 @@ Per poder fer això anirem a paràmetres hi ha comptes en línia
 
 ![alt text](backup.png)  
 
+I dins posarem la copia de seguretat 
+
+
+# CARPETA COMPARTIDA
+
+També farem una carpeta compartida amb els arxius compartits 
