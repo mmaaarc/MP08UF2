@@ -53,4 +53,4 @@ Per poder fer això anirem a paràmetres hi ha comptes en línia
 
 
 
-![alt text](b.png)                                                                ![alt text](Anual.png)
+![alt text](a.png)                                                                ![alt text](b.png)
