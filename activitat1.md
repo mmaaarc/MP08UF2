@@ -65,3 +65,6 @@ I dins posarem la copia de seguretat
 # CARPETA COMPARTIDA
 
 També farem una carpeta compartida amb els arxius compartits 
+
+
+![alt text](CARPETA.png) 
