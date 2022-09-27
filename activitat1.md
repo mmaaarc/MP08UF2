@@ -31,10 +31,12 @@ Com a encarregat/da del departament d’informàtica de la teva empresa tens la 
 
 # EL PRESSUPOST MENSUAL I ANUAL DE LA DESPESA DEL SERVEI A CONTACTAR
 
-## Pressupost mensual
+## Pressupost Mensual
 
 
 ![alt text](pressupost.png)
 
+
+## Pressupost Anual
 
 
