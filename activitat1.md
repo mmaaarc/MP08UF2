@@ -40,3 +40,4 @@ Com a encarregat/da del departament d’informàtica de la teva empresa tens la 
 ## Pressupost Anual
 
 
+![alt text](Anual.png)
