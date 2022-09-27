@@ -78,3 +78,7 @@ Aquí podem editar els permisos del usuaris compartits en aquest cas està l’a
 
 
 # EXEMPLES D'US DE CONSULTAR UN DOCUMENT PER PART DE L'USUARI
+
+
+
+Al drive de l’usuari li sortirà la carpeta compartida sol tindrà que anar a unitats compartides en mi i ja tindrà la carpeta extra.
