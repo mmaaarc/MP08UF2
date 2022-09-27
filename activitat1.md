@@ -68,3 +68,9 @@ També farem una carpeta compartida amb els arxius compartits
 
 
 ![alt text](CARPETA.png) 
+
+
+Aquí podem editar els permisos del usuaris compartits en aquest cas està l’admin i un usuari de l’empresa que sol pot llegir 
+
+
+![alt text](compartida.png) 
