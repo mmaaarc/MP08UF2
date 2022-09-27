@@ -74,3 +74,7 @@ Aquí podem editar els permisos del usuaris compartits en aquest cas està l’a
 
 
 ![alt text](compartida.png) 
+
+
+
+# EXEMPLES D'US DE CONSULTAR UN DOCUMENT PER PART DE L'USUARI
