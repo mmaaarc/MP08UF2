@@ -45,11 +45,17 @@ Ara tindrem que editar el PHP per aixo posarem lacomanda nano
 
 ![alt text](phpedit.png)
 
-* Lo que tindrem que editar es
-* file_uploads
+Lo que tindrem que editar es =
+
+* File_uploads
 * On allow_url_fopen
 * On memory_limit = 256M upload_max_filesize
 * 100M display_errors = Off
-* date.timezone = Europe/Madrid
+* Date.timezone = Europe/Madrid
+
 Quan ja ho tindrem editat ctrl+o per guardar i cntrl+x per sortir
+ 
+## Intal·lació Owncloud
+
+
 
