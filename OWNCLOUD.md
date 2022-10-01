@@ -73,7 +73,7 @@ També li cambiarem els permisos
 
 També editarem aquest archiu i tindrem que copiar aquest text
 
-![alt text](copiar.png)
+![alt text](pablo.png)
 
 Finalment posarem aquestes 6 comandes:
 
