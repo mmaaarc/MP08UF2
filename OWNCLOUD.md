@@ -9,7 +9,11 @@ Una vegada tenim instal·lat el apache instal·larem la base de dades MariDB
 
 ![alt text](comanda3.png)
 
-Seguidamentposarem aquesta comanda
+Seguidament posarem aquesta comanda
 
 ![alt text](comanda6.png)
+
+Ara rainiciarem la base de dades per generar els canvis
+
+![alt text](comanda5.png)
 
