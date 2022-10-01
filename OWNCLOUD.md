@@ -67,4 +67,8 @@ Seguidament cambiarem el propietari del arxiu
 
 ![alt text](cambiar.png)
 
+També li cambiarem els permisos
+
+![alt text](permisos.png)
+
 
