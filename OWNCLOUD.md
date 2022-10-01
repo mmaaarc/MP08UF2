@@ -75,6 +75,8 @@ També editarem aquest archiu i tindrem que copiar aquest text
 
 ![alt text](pablo.png)
 
+![alt text](copiar.png)
+
 Finalment posarem aquestes 6 comandes:
 
 * sudo a2ensite owncloud.conf
