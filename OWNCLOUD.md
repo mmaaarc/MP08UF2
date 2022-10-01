@@ -5,3 +5,4 @@ Primera comanda sira per instal·lar l'apache
 
 ![alt text](apache2.png)
 
+Una vegada tenim instal·lat el apache instal·larem la base de dades MariDB
