@@ -62,3 +62,7 @@ Quan ja ho tindrem editat ctrl+o per guardar i cntrl+x per sortir
 Ara mourem a la carpeta corresponent
 
 ![alt text](owncloud3.png)
+
+Seguidament cambiarem el propietari del arxiu
+
+![alt text](owncloud3.png)
