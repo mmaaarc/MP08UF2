@@ -89,6 +89,6 @@ Finalment posarem aquestes 6 comandes:
 
 Ara tindrem que reiniciar l'apache 
 
-**Ara ja podrem accedir al owncloud posarem la nostra IP /owncloud
+**Ara ja podrem accedir al owncloud posarem la nostra IP /owncloud**
 
 ![alt text](anuel.png)
