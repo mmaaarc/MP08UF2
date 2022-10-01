@@ -57,5 +57,5 @@ Quan ja ho tindrem editat ctrl+o per guardar i cntrl+x per sortir
  
 ## Intal·lació Owncloud
 
-
+![alt text](owncloud2.png)
 
