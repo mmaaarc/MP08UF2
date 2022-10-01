@@ -11,9 +11,13 @@ Una vegada tenim instal·lat el apache instal·larem la base de dades MariDB
 
 Seguidament posarem aquesta comanda
 
-![alt text](comanda6.png)
+![alt text](ara.png)
 
 Ara rainiciarem la base de dades per generar els canvis
 
 ![alt text](comanda5.png)
 
+Ara posem esta comanda que ens permet tenir tots els permisos
+![alt text](curios.png)
+
+I podrem entrar a la linea de comandes de MariaDB
