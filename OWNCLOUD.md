@@ -66,3 +66,5 @@ Ara mourem a la carpeta corresponent
 Seguidament cambiarem el propietari del arxiu
 
 ![alt text](cambiar.png)
+
+
