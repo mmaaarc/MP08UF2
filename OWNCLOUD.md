@@ -36,3 +36,6 @@ Primer instal·larem els repositoris
 ![alt text](php.png)
 
 
+Ara si que ja podrem instalar PHP amb la versió corresponent
+
+![alt text](phpya.png)
