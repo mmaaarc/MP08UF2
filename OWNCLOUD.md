@@ -25,11 +25,12 @@ Ara posem esta comanda que ens permet tenir tots els permisos
 I podrem entrar a la linea de comandes de MariaDB
 
 
+## Instal·lació PHP
+
 Instalarem el software necessari
 
 ![alt text](seguent.png)
 
-## Instal·lació PHP
 
 Primer instal·larem els repositoris
 
@@ -39,3 +40,16 @@ Primer instal·larem els repositoris
 Ara si que ja podrem instalar PHP amb la versió corresponent
 
 ![alt text](phpya.png)
+
+Ara tindrem que editar el PHP per aixo posarem lacomanda nano
+
+![alt text](phpedit.png)
+
+**Lo que tindrem que editar es** 
+**file_uploads** 
+**On allow_url_fopen**
+**On memory_limit = 256M upload_max_filesize**  
+**100M display_errors = Off** 
+**date.timezone = Europe/Madrid**
+Quan ja ho tindrem editat ctrl+o per guardar i cntrl+x per sortir
+
