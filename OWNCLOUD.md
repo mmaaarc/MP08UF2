@@ -59,3 +59,6 @@ Quan ja ho tindrem editat ctrl+o per guardar i cntrl+x per sortir
 
 ![alt text](owncloud2.png)
 
+Ara mourem a la carpeta corresponent
+
+![alt text](owncloud3.png)
