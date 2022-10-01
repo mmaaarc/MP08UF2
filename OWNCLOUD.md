@@ -81,9 +81,12 @@ Finalment posarem aquestes 6 comandes:
 
 * sudo a2ensite owncloud.conf
 * sudo a2enmod rewrite
+
 * sudo a2enmod headers
 * sudo a2enmod env
 * sudo a2enmod dir
 * sudo a2enmod mime
 
 Ara tindrem que reiniciar l'apache 
+
+**Ara ja podrem accedir al owncloud posarem la nostra IP /owncloud
