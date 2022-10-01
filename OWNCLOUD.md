@@ -32,3 +32,5 @@ Instalarem el software necessari
 ## PHP INSTAL·LACIÓ
 
 Primer instal·larem els repositoris
+
+![alt text](php.png)
