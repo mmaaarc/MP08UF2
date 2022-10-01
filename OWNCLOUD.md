@@ -29,8 +29,10 @@ Instalarem el software necessari
 
 ![alt text](seguent.png)
 
-## PHP INSTAL·LACIÓ
+## Instal·lació PHP
 
 Primer instal·larem els repositoris
 
 ![alt text](php.png)
+
+
