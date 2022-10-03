@@ -119,3 +119,7 @@ Ens sortira aixó
 ![alt text](owncloud6.png)
 
 Ara per a que no ens surtigue correcte tindre que editar un fitxer.
+
+Accedirem  aquest fitxer i editarem la IP posarem la del nostre servidor
+
+![alt text](owncloud7.png)
