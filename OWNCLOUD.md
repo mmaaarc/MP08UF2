@@ -130,4 +130,4 @@ Posarem el nom nou del domini i ja podrem accedir
 
 Aquí o podem comprobar.
 
-![alt text](owncloud1.png)
+![alt text](owncloud11.png)
