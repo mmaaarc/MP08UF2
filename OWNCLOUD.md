@@ -103,3 +103,13 @@ Una vegada al directori posarem la comanda sudo nano owncloud.conf i tindrem que
 
 
 ![alt text](owncloud3.png)
+
+Posarem aquesta comanda
+
+
+![alt text](owncloud4.png)
+
+I per ultim reiniciarem l'apache
+
+
+![alt text](owncloud5.png)
