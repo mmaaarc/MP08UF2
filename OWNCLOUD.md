@@ -101,3 +101,5 @@ Una vegada al directori posarem la comanda sudo nano owncloud.conf i tindrem que
 
 ![alt text](owncloud2.png)
 
+
+![alt text](owncloud3.png)
