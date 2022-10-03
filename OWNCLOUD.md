@@ -94,3 +94,5 @@ Ara tindrem que reiniciar l'apache
 ![alt text](anuel.png)
 
 Procedirem a cambiar el domini per lo tant tindrem que entrar a aquesta ruta:
+
+![alt text](owncloud1.png)
