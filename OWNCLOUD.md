@@ -113,3 +113,9 @@ I per ultim reiniciarem l'apache
 
 
 ![alt text](owncloud5.png)
+
+Ens sortira aixó
+
+![alt text](owncloud6.png)
+
+Ara per a que no ens surtigue correcte tindre que editar un fitxer.
