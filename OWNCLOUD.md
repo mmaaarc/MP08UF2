@@ -92,3 +92,5 @@ Ara tindrem que reiniciar l'apache
 **Ara ja podrem accedir al owncloud posarem la nostra IP /owncloud**
 
 ![alt text](anuel.png)
+
+Procedirem a cambiar el domini per lo tant tindrem que entrar a aquesta ruta:
