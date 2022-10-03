@@ -96,3 +96,8 @@ Ara tindrem que reiniciar l'apache
 Procedirem a cambiar el domini per lo tant tindrem que entrar a aquesta ruta:
 
 ![alt text](owncloud1.png)
+
+Una vegada al directori posarem la comanda sudo nano owncloud.conf i tindrem que copiar el text del principi cambiant el nom del servidor.
+
+![alt text](owncloud2.png)
+
